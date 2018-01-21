@@ -1,0 +1,20 @@
+body {
+	font-size: 16px;
+}
+
+.container {
+	background: #aaa;
+	height: 400px;
+	margin: 140px auto 0;
+	text-align: center;
+	width: 50%;
+}
+
+.container h2 {
+	padding-top: 40px;
+}
+
+.container span {
+	color: #1931ea;
+	font-size: 1.4em;
+}
